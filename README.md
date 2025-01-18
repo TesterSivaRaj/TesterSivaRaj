@@ -14,11 +14,6 @@
 - Developing AI Agents for customer service automation  
 - Enhancing web-based CRM tools with interactive visualizations  
 
-📂 **Portfolio Highlights:**  
-- **[AI Chatbot Agent](https://github.com/TesterSivaRaj/ai-agent):**  
-  A conversational AI bot deployed on GCP. Integrated with CRM to improve customer interaction.
-- **[CRM Dashboard](https://github.com/TesterSivaRaj/crm-dashboard):**  
-  An interactive web-based dashboard to visualize sales metrics.
 
 📫 **Connect With Me:**  
 [LinkedIn](https://www.linkedin.com/in/sivaraj-s-menon-519205220/) | [Email](mailto:sivarajsivadasmenon@gmail.com)
